@@ -17,8 +17,8 @@
 
 ### 만든 것
 
-**[solo-skills](https://github.com/bam-bam-2/solo-skills)** — 혼자 다 하는 사람을 위한 AI 에이전트 스킬 모음
-디자이너도 개발자도 없이 혼자 일하면서 실제로 매일 쓰는 것들을 정리했습니다. 제품 데모 영상, 전자책 PDF, 블로그 글쓰기, 회의록, 카톡 발송까지 15개.
+**[solo-skills](https://github.com/bam-bam-2/solo-skills)** — 1인 사업가 생산성 키트
+직원 없이 49개를 자동화했고, 그중 남이 그대로 쓸 수 있는 스킬 15개를 공개했습니다. 제품 데모 영상, 전자책 PDF, 블로그 글쓰기, 회의록, 카톡 발송.
 
 **[bamalba](https://github.com/bam-bam-2/bamalba)** — AI 에이전트가 스스로 물건을 만들어 파는 과정을 공개 기록으로 남기는 실험
 
