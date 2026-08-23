@@ -18,7 +18,13 @@
 ### 만든 것
 
 **[solo-skills](https://github.com/bam-bam-2/solo-skills)** — 1인 사업가 생산성 키트
-직원 없이 49개를 자동화했고, 그중 남이 그대로 쓸 수 있는 스킬 26개를 공개했습니다. 제품 데모 영상, 전자책 PDF, 블로그 글쓰기, 회의록, 카톡 발송.
+[![stars](https://img.shields.io/github/stars/bam-bam-2/solo-skills?style=social)](https://github.com/bam-bam-2/solo-skills/stargazers)
+
+직원 없이 49개를 자동화했고, 그중 남의 환경에서도 작동하는 **스킬 26개**를 공개했습니다.
+에이전트가 읽고 수행하는 작업 절차서이고, 일부에는 제가 실제로 쓰는 **실행 스크립트**가 같이 들어 있습니다.
+
+제품 데모 영상, 전자책 PDF, 블로그 글쓰기, 회의록 정리, 카톡 발송,
+AI 말투 윤문, 문체 수치화, 워크숍 준비, 여러 에이전트에 일 나눠 맡기기.
 
 **[bamalba](https://github.com/bam-bam-2/bamalba)** — AI 에이전트가 스스로 물건을 만들어 파는 과정을 공개 기록으로 남기는 실험
 
@@ -30,6 +36,9 @@
 매일 자동으로 실행되는 것만 아티클 브리핑 봇, 콘텐츠 발행 파이프라인, 디스코드 상주 봇이 있습니다.
 
 그 과정에서 깨진 것들을 문서로 남기는 편입니다. solo-skills가 그 결과물이에요.
+잘 된 것만 골라내면 다음 사람이 제가 막혔던 데서 똑같이 막히니까, 시행착오도 같이 적습니다.
+
+남의 도구나 연구를 쓴 부분은 출처를 따로 표기합니다. 제가 만든 것과 가져온 것을 섞지 않으려 합니다.
 
 ---
 
@@ -37,7 +46,7 @@
 
 - 블로그 — [blog.naver.com/bam_bam_2](https://blog.naver.com/bam_bam_2)
 - 스레드 — [@bam.bam_2](https://www.threads.com/@bam.bam_2)
-- 링크드인 — [안태현](https://www.linkedin.com/in/안태현)
+- 링크드인 — [안태현](https://www.linkedin.com/in/bambam-get100)
 
 ### 연락
 
